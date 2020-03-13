@@ -14,7 +14,9 @@ import java.util.ArrayList;
  * 2. Alla andra nummer skall separeras med komma.
  * 3. Utskriften skall vara på en rad.
  */
-
+/*
+ * tjena hugo
+ */
 public class Sidnummer {
 
 	public static void main(String[] args) throws IOException {
